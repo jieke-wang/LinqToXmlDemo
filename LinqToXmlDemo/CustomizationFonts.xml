@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomizationFont>
+  <CustomizationFont ID="1" FontName="Arial" FontImage="arial.gif" />
+  <CustomizationFont ID="2" FontName="AvQuest" FontImage="avquest.gif" />
+  <CustomizationFont ID="3" FontName="Bauer Bodoni" FontImage="bauer_bodoni.gif" />
+  <CustomizationFont ID="4" FontName="Billiebob" FontImage="billiebob.gif" />
+  <CustomizationFont ID="5" FontName="Black Castle" FontImage="black_castle.gif" />
+  <CustomizationFont ID="6" FontName="Blades Regular" FontImage="blades_regular.gif" />
+  <CustomizationFont ID="7" FontName="Boyzrgross" FontImage="boyzrgross.gif" />
+  <CustomizationFont ID="8" FontName="Brush Script" FontImage="brush_script.gif" />
+  <CustomizationFont ID="9" FontName="Cantebriggia" FontImage="cantebriggia.gif" />
+  <CustomizationFont ID="10" FontName="Century Gothic" FontImage="century_gothic.gif" />
+  <CustomizationFont ID="11" FontName="College" FontImage="college.gif" />
+  <CustomizationFont ID="12" FontName="Comic Sans" FontImage="comic_sans.gif" />
+  <CustomizationFont ID="13" FontName="Cowboys" FontImage="cowboys.gif" />
+  <CustomizationFont ID="14" FontName="Digiface Italic" FontImage="digiface_italic.gif" />
+  <CustomizationFont ID="15" FontName="Dolphins" FontImage="dolphins.gif" />
+  <CustomizationFont ID="16" FontName="Dom Casual" FontImage="dom_casual.gif" />
+  <CustomizationFont ID="17" FontName="Dynomite" FontImage="dynomite.gif" />
+  <CustomizationFont ID="18" FontName="Fabulous" FontImage="fabulous.gif" />
+  <CustomizationFont ID="19" FontName="Font Logic" FontImage="font_logic.gif" />
+  <CustomizationFont ID="20" FontName="Geek A Byte" FontImage="geek_a_byte.gif" />
+  <CustomizationFont ID="21" FontName="Gemelli" FontImage="gemelli.gif" />
+  <CustomizationFont ID="22" FontName="Gotham Nights Normal" FontImage="gotham_nights_normal.gif" />
+  <CustomizationFont ID="23" FontName="Han Solo" FontImage="han_solo.gif" />
+  <CustomizationFont ID="24" FontName="Hang The DJ" FontImage="hang_the_dj.gif" />
+  <CustomizationFont ID="25" FontName="Harrington" FontImage="harrington.gif" />
+  <CustomizationFont ID="26" FontName="Impact" FontImage="impact.gif" />
+  <CustomizationFont ID="27" FontName="Inner Sanctum" FontImage="inner_sanctum.gif" />
+  <CustomizationFont ID="28" FontName="Iron Man" FontImage="iron_man.gif" />
+  <CustomizationFont ID="29" FontName="Irrep" FontImage="irrep.gif" />
+  <CustomizationFont ID="30" FontName="John Doe" FontImage="john_doe.gif" />
+  <CustomizationFont ID="31" FontName="Junegull" FontImage="junegull.gif" />
+  <CustomizationFont ID="32" FontName="Kerfuffle" FontImage="kerfuffle.gif" />
+  <CustomizationFont ID="33" FontName="Kid Print" FontImage="kid_print.gif" />
+  <CustomizationFont ID="34" FontName="Lard" FontImage="lard.gif" />
+  <CustomizationFont ID="35" FontName="New Detroit" FontImage="new_detroit.gif" />
+  <CustomizationFont ID="36" FontName="Nordic" FontImage="nordic.gif" />
+  <CustomizationFont ID="37" FontName="Oliver" FontImage="oliver.gif" />
+  <CustomizationFont ID="38" FontName="Onyx" FontImage="onyx.gif" />
+  <CustomizationFont ID="39" FontName="Pindown A" FontImage="pindown_a.gif" />
+  <CustomizationFont ID="40" FontName="Pink Noise" FontImage="pink_noise.gif" />
+  <CustomizationFont ID="41" FontName="Planet Kosmos" FontImage="planet_kosmos.gif" />
+  <CustomizationFont ID="42" FontName="PR Mirror" FontImage="pr_mirror.gif" />
+  <CustomizationFont ID="43" FontName="Pricedown" FontImage="pricedown.gif" />
+  <CustomizationFont ID="44" FontName="Quake N Shake" FontImage="quake_n_shake.gif" />
+  <CustomizationFont ID="45" FontName="Ren and Stimpy" FontImage="ren_and_stimpy.gif" />
+  <CustomizationFont ID="46" FontName="Royal Acidbath" FontImage="royal_acidbath.gif" />
+  <CustomizationFont ID="47" FontName="Savatage" FontImage="savatage.gif" />
+  <CustomizationFont ID="48" FontName="SF Square Root" FontImage="sf_square_root.gif" />
+  <CustomizationFont ID="49" FontName="Shake That Booty" FontImage="shake_that_booty.gif" />
+  <CustomizationFont ID="50" FontName="Squealer" FontImage="squealer.gif" />
+  <CustomizationFont ID="51" FontName="Stencil" FontImage="stencil.gif" />
+  <CustomizationFont ID="52" FontName="Times Italic" FontImage="times_italic.gif" />
+  <CustomizationFont ID="53" FontName="TM Tramway" FontImage="tm_tramway.gif" />
+  <CustomizationFont ID="54" FontName="Vein" FontImage="vein.gif" />
+  <CustomizationFont ID="55" FontName="Verdana" FontImage="verdana.gif" />
+  <CustomizationFont ID="56" FontName="Whoopass" FontImage="whoopass.gif" />
+  <CustomizationFont ID="57" FontName="Wide Awake" FontImage="wide_awake.gif" />
+  <CustomizationFont ID="58" FontName="Wiffles" FontImage="wiffles.gif" />
+  <CustomizationFont ID="59" FontName="Yataghan" FontImage="yataghan.gif" />
+  <CustomizationFont ID="60" FontName="Yellow Jacket" FontImage="yellow_jacket.gif" />
+  <CustomizationFont ID="61" FontName="Zero Gravity" FontImage="zero_gravity.gif" />
+  <CustomizationFont ID="62" FontName="Zipple Bold" FontImage="zipple_bold.gif" />
+  <CustomizationFont ID="63" FontName="Zurich Extended BT" FontImage="zurich_extended_bt.gif" />
+</ArrayOfCustomizationFont>

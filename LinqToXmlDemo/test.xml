@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTest>
+  <Test ID="1" Name="Test" Age="20">
+    <Job>无业</Job>
+  </Test>
+</ArrayOfTest>

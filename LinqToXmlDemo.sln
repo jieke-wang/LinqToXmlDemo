@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToXmlDemo", "LinqToXmlDemo\LinqToXmlDemo.csproj", "{219291B5-FB40-4826-8853-2B6F97B813CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToXML", "LinqToXML\LinqToXML.csproj", "{0C49EBFD-B3F6-48C7-B98F-1B2B1460DD49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{219291B5-FB40-4826-8853-2B6F97B813CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219291B5-FB40-4826-8853-2B6F97B813CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219291B5-FB40-4826-8853-2B6F97B813CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219291B5-FB40-4826-8853-2B6F97B813CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C49EBFD-B3F6-48C7-B98F-1B2B1460DD49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C49EBFD-B3F6-48C7-B98F-1B2B1460DD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C49EBFD-B3F6-48C7-B98F-1B2B1460DD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C49EBFD-B3F6-48C7-B98F-1B2B1460DD49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

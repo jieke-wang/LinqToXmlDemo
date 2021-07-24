@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTest>
+  <Test TestID="1" Name="王仪虎" Age="21" />
+  <Test TestID="2" Name="张三" Age="22" />
+</ArrayOfTest>
